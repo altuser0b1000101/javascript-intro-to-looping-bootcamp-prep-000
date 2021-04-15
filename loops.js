@@ -8,20 +8,13 @@ array.push(`I am ${i} strange loop.`);
 }
 return array;
 }
-
 //sad
-
-
-
 function whileLoop(number) {
 while (number > 0) {
 console.log(–number);
 }
 return “done”;
 }
-
-
-
 //sad2
 
 function doWhileLoop(array){
