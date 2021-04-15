@@ -12,7 +12,7 @@ const arr = [];
 const out = forLoop(arr);
 console.log(out);
 
-
+//sad
 
 
 function whileLoop(number) {
