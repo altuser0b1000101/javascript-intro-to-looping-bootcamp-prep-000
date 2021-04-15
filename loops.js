@@ -11,3 +11,5 @@ function forLoop(arr) {
 const arr = [];
 const out = forLoop(arr);
 console.log(out);
+
+
