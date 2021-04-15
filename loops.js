@@ -11,12 +11,3 @@ function forLoop(arr) {
 const arr = [];
 const out = forLoop(arr);
 console.log(out);
-
-//strange(2)
-
-function whileLoop(n) {
-while (n > 0) {
-console.log(–n);
-}
-return “done”;
-}
