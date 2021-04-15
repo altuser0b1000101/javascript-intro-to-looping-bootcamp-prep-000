@@ -1,16 +1,13 @@
-function forLoop(arr) {
-  for (let i = 0; i < 25; i++) {
-    if (i === 1) {
-      arr.push(`I am 1 strange loop.`);
-    } else {
-      arr.push(`I am ${i} strange loops.`);
-    }
-  }
-  return arr;
+function forLoop(array){
+for (i = 0; i < 25; i++) {
+if(i===1){
+array.push(“I am 1 strange loop.”);
+} else {
+array.push(“I am ${i} strange loop.”)
 }
-const arr = [];
-const out = forLoop(arr);
-console.log(out);
+}
+return array;
+}
 
 //sad
 
