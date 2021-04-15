@@ -11,7 +11,7 @@ return array;
 //sad
 
 
-function whileLoop(number) {
+function doWhileLoop(number) {
 while (number > 0) {
 console.log(–number);
 }
